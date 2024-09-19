@@ -2,7 +2,7 @@
 - 👀 I’m love God, Data and Farming
 - 🌱 I’m currently practicing as a Data Engineer
 - 💞️ I’m looking to collaborate on various projects with people willing share knowledge and experience
-- 📫 Reach out to me by [on linkedin](https://www.linkedin.com/in/letlhogile/)
+- 📫 Reach out to me [on linkedin](https://www.linkedin.com/in/letlhogile/)
 
 
 <!---
